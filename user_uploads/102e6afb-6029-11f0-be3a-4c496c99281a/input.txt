@@ -1,0 +1,8 @@
+file '63775f0cdcddefceedef81d56a522e57.jpg'
+duration 2
+file 'bd968b182a49712aac4bdf7acddec145.jpg'
+duration 2
+file '63775f0cdcddefceedef81d56a522e57.jpg'
+duration 2
+file 'bd968b182a49712aac4bdf7acddec145.jpg'
+duration 2

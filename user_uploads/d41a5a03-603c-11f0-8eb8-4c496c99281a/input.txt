@@ -1,0 +1,4 @@
+file 'pexels-nicole-avagliano-1132392-2749481.jpg'
+duration 2
+file 'pexels-nicole-avagliano-1132392-2749481.jpg'
+duration 2
