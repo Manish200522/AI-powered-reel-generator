@@ -1,0 +1,16 @@
+file 'bd968b182a49712aac4bdf7acddec145.jpg'
+duration 2
+file '63775f0cdcddefceedef81d56a522e57.jpg'
+duration 2
+file 'clara-eveline-dwiputri-edit-3.jpg'
+duration 2
+file 'demon-slayer-chromebook-wallpaper.jpg'
+duration 2
+file 'lost-in-space-alone-dream-deep-space-nebula-2560x1080-1053.jpg'
+duration 2
+file 'miles-morales-in-multiverse.jpg'
+duration 2
+file 'pexels-nicole-avagliano-1132392-2749481.jpg'
+duration 2
+file 'ultra-hd-lord-shiva-4k-wallpaper-5-11649580289fowphgoslb.jpg'
+duration 2
